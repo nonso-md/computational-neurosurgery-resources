@@ -24,10 +24,11 @@ __Updated as I read__
 ## Nigerian Neurosurgical Context
 
 *Papers added as annotated*
-<!--
+
 | Author / Year | Title | Type | Gap Note |
-|---|---|---|---|
--->
+
+| Dewan et al. (2017) | [Global neurosurgery: the current capacity and deficit in the provision of essential neurosurgical care](https://doi.org/10.3171/2017.11.jns171500) | Capacity Assessment | No data from 34 countries, granular Africa data (by country) unpublished |
+
 
 
 ---
