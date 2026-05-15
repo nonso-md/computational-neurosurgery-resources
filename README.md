@@ -1,8 +1,8 @@
 # Computational Neurosurgery Resources
 
 A curated, annotated map of the computational neurosurgery literature, covering 
-AI in functional neurosurgery, DBS, BCI, epilepsy surgery, signal processing, 
-and the African clinical context. Maintained by [@nonso-md](https://github.com/nonso-md) 
+AI in neurosurgery (functional), DBS, BCI, epilepsy surgery, signal processing, 
+and the African, and Nigerian clinical context. Maintained by [@nonso-md](https://github.com/nonso-md) 
 as part of an active research portfolio.
 
 __Updated as I read__
