@@ -27,9 +27,10 @@ __Updated as I read__
 
 | Author / Year | Title | Type | Gap Note |
 
-| Dewan et al. (2017) | [Global neurosurgery: the current capacity and deficit in the provision of essential neurosurgical care](https://doi.org/10.3171/2017.11.jns171500) | Capacity Assessment | No data from 34 countries, granular Africa data (by country) unpublished |
+* | Dewan et al. (2017) | [Global neurosurgery: the current capacity and deficit in the provision of essential neurosurgical care](https://doi.org/10.3171/2017.11.jns171500) | Capacity Assessment | No data from 34 countries, granular Africa data (by country) unpublished |
 
-
+* | Ukachukwu et al. (2024) | [Neurosurgical Practice, Training, and Research Capacity Assessment in Nigeria: A Methodological Approach](https://doi.org/10.1016/j.wneu.2024.03.016) | Methodology Statement | Insufficient response rate, lack of community based data |
+  >This is a methodology paper for a series of publications (about 7 of them) hence those manuscripts would detail results, gaps, and limitations for each of it's research questions.
 
 ---
 
