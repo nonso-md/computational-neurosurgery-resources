@@ -32,6 +32,8 @@ __Updated as I read__
 * | Ukachukwu et al. (2024) | [Neurosurgical Practice, Training, and Research Capacity Assessment in Nigeria: A Methodological Approach](https://doi.org/10.1016/j.wneu.2024.03.016) | Methodology Statement | Insufficient response rate, lack of community based data |
   >This is a methodology paper for a series of publications (about 7 of them) hence those manuscripts would detail results, gaps, and limitations for each of it's research questions.
 
+* | Ukachukwu et al. (2023) | [The status of specialist neurosurgical training in Nigeria: A survey of practitioners, trainers, and trainees](https://doi.org/10.1016/j.wneu.2023.11.040) | cross-sectional study | Lack of qualitative individual and regional data  |
+  
 ---
 
 ## African Functional Neurosurgery & Equity
